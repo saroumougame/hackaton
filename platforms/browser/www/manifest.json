@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Hackathon",
+  "short_name": "Hackathon",
+  "version": "io.cordova.hellocordova",
+  "description": "L'application pour le hackathon 2018 permettant une communication entre personnes agées et leurs familles.",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
